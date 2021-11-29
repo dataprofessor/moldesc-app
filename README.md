@@ -4,7 +4,7 @@
 
 [How to build a Bioinformatics web app (Molecular Descriptor Calculator) in Python | Streamlit #21](https://youtu.be/htBIP17S-20)
 
-<a href="https://youtu.be/htBIP17S-20"><img src="http://img.youtube.com/vi/htBIP17S-20/0.jpg" alt="How to build a Bioinformatics web app (Molecular Descriptor Calculator) in Pythaon | Streamlit #21" title="How to build a Bioinformatics web app (Molecular Descriptor Calculator) in Pythaon | Streamlit #21" width="400" /></a>
+<a href="https://youtu.be/htBIP17S-20"><img src="http://img.youtube.com/vi/htBIP17S-20/0.jpg" alt="How to build a Bioinformatics web app (Molecular Descriptor Calculator) in Python | Streamlit #21" title="How to build a Bioinformatics web app (Molecular Descriptor Calculator) in Python | Streamlit #21" width="400" /></a>
 
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
